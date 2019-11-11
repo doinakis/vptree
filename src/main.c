@@ -1,4 +1,4 @@
-/*
+/*καππα
 *Implementation of Vantage point tree
 *Main Implementation for test Usage
 *Doinakis Michail
