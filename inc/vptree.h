@@ -1,4 +1,4 @@
-/*kappa keepo
+/*
 *vptree.h header with the accessors
 *Doinakis Michail
 *e-mail: doinakis@ece.auth.gr
